@@ -8,8 +8,9 @@
 
 #### Trying to connect a free API with my python Program using *request* library. This program simply fetch piece of data regarding live flight operating world wide.
 
-https://img.shields.io/github/stars/aditya-rana215
-https://img.shields.io/github/issues/aditya-rana215/Aviation-Detail
+![GitHub User's stars](https://img.shields.io/github/stars/aditya-rana215)
+![GitHub Issues](https://img.shields.io/github/issues/aditya-rana215/Aviation-Detail)
+
 
 #### For this repo, the free API used is : *Avitation Stack*. [API Documentation](https://docs.apilayer.com/aviationstack/docs/api-documentation?utm_source=AviationstackHomePage&utm_medium=Referral) 
 
